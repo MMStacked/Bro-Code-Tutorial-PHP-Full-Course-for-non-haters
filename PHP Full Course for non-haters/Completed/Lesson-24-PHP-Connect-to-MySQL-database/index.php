@@ -1,3 +1,5 @@
+<!-- Version 2 -->
+
 <?php
     // 1. MySQLi Extension
     // 2. PDO (PHP DATA Object)
@@ -15,14 +17,9 @@
     // 9. FreeTDS
     // 10. SQLite
     // 11. Cubird
-    // 12. 4d
-
-
+    // 12. 4d#
+    
     include("database.php");
-
-
-
-
 
 ?>
 
@@ -34,6 +31,7 @@
     <title>Document</title>
 </head>
 <body>
-    Hello
+    Hello <br>
 </body>
 </html>
+
